@@ -13,7 +13,7 @@ format:
 # installing
 
 venv: # затем необходимо активировать: source .venv/bin/activate
-	python3 -m venv .venv
+	python3.10 -m venv .venv
 
 install: # простая установка зависимостей без editable режима
 	pip install .
