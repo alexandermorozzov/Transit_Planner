@@ -42,3 +42,10 @@ ENV/
 
 # PyCharm env
 .idea
+
+# figures files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
